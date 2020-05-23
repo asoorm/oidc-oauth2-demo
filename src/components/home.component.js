@@ -44,7 +44,7 @@ export default class Home extends Component {
                   for
                   Code Exchange</p>
                 <Link to="/authorization-code-pkce"
-                      className="btn btn-lg btn-block btn-outline-primary mt-auto">Client Credentials</Link>
+                      className="btn btn-lg btn-block btn-outline-primary mt-auto">Authorization Code + PKCE</Link>
               </div>
             </div>
           </div>
